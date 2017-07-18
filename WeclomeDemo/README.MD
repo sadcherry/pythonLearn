@@ -34,3 +34,6 @@ liu:123
 6. 字典的遍历，for _user, _pwd in userinfoDict.items()，items()方法可以直接拆分字典。
 7. 学习了画流程图，学会理清思路再动手写代码，希望保持住这个好习惯。大部分的时间应该用在思考上。
 
+## 该Demo流程图
+
+![image](https://github.com/sadcherry/pythonLearn/blob/master/WeclomeDemo/flowchart.png)
