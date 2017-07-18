@@ -6,7 +6,7 @@
 
 threeLevelMenu.py —— 主程序
 
-三级菜单Demo流程图,jpg —— 该程序的设计思路
+flowchart.png—— 该程序的设计思路
 
 ## Demo收获
 
