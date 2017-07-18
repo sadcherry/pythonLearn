@@ -25,7 +25,7 @@ liu:123
 ````
 - welcome.py —— 主程序
 
-- flowchart.png —— 该Demo设计流程图
+- flowchart.png —— 程序流程图
 ## Demo收获
 1. 文件的简单读写操作，追加写文件的方式是open("filename","a"),a表示追加。
 2. 列表和字典的运用，运用来存储用户相关信息，便于程序的查找比对。
@@ -35,6 +35,6 @@ liu:123
 6. 字典的遍历，for _user, _pwd in userinfoDict.items()，items()方法可以直接拆分字典。
 7. 学习了画流程图，学会理清思路再动手写代码，希望保持住这个好习惯。大部分的时间应该用在思考上。
 
-## 该Demo流程图
+## 流程图
 
 ![image](https://github.com/sadcherry/pythonLearn/blob/master/WeclomeDemo/flowchart.png)
