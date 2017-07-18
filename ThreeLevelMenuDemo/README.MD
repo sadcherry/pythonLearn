@@ -16,4 +16,4 @@ threeLevelMenu.py —— 主程序
 
 ## 该Demo流程图
 
-![image](https://github.com/sadcherry/pythonLearn/blob/master/Three%20level%20menu%20Demo/%E4%B8%89%E7%BA%A7%E8%8F%9C%E5%8D%95Demo%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+![image](https://github.com/sadcherry/pythonLearn/ThreeLevelMenuDemo/flowchart.jpg)
