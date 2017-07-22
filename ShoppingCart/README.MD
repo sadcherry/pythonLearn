@@ -25,5 +25,6 @@
       - 字典转字符串 str = str(dict)
   3. 字典的常见操作，增删改查。
 
-  ## 流程图（购物车用户版）
+## 流程图（购物车用户版）
 
+![image](https://github.com/sadcherry/pythonLearn/blob/master/ShoppingCart/flowchart.png)
