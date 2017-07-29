@@ -1,1 +1,1 @@
-{'Ipone': 3500, 'Coffee': 30, 'Mac': 9888}
+{'Ipone': 3500, 'Coffee': 2000, 'Mac': 9888}
